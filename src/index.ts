@@ -1,5 +1,5 @@
-export function greet(name: string): string {
+export function greet(name: string) {
     console.log('Hello, ' + name + '!');
-    return `Hello, ${name}!`;
+
   }
   
